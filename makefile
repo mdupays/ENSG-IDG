@@ -13,16 +13,16 @@ CURRENT_DIR?= $(shell pwd)
 # Every command is a PHONY, to avoid file naming confliction -> strengh comes from good habits!
 .PHONY: help
 help:
-    @echo "=============================================================================================="
-    @echo "                Building a simple Bubble Apps proxy composition "
-    @echo "             https://github.com/elasticlabs/elabs-bubble-apps-proxy"
-    @echo " "
-    @echo "Hints for developers:"
-    @echo "  make up             # With working HTTPS proxy, bring up the Bubble stack"
-    @echo "  make down           # Brings the Bubble stack down. "
-    @echo "  make update         # Update the whole stack"
-    @echo "  make cleanup   # Complete hard cleanup of images, containers, networks, volumes & data"
-    @echo "=============================================================================================="
+	@echo "=============================================================================================="
+	@echo "                Building a simple Bubble Apps proxy composition "
+	@echo "             https://github.com/elasticlabs/elabs-bubble-apps-proxy"
+	@echo " "
+	@echo "Hints for developers:"
+	@echo "  make up             # With working HTTPS proxy, bring up the Bubble stack"
+	@echo "  make down           # Brings the Bubble stack down. "
+	@echo "  make update         # Update the whole stack"
+	@echo "  make cleanup   # Complete hard cleanup of images, containers, networks, volumes & data"
+	@echo "=============================================================================================="
 
 build:
 	docker compose -f docker-compose.yml build
@@ -37,5 +37,5 @@ down:
 	docker compose down
 
 cleanup:
-    docker compose -f docker-compose.yml down --remove-orphans
-    docker system prune -a
+	docker compose -f docker-compose.yml down --remove-orphans
+	docker system prune -a
