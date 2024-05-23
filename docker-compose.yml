@@ -1,0 +1,74 @@
+services:
+  postgis:
+    container_name: postgres
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PW}
+      - POSTGRES_DB=${POSTGRES_DB} #optional (specify default database instead of $POSTGRES_DB)
+    ports:
+      - "5432:5432"
+    networks:
+      - back-net
+    restart: always
+
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4:latest
+    depends_on:
+      - postgis
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=${PGADMIN_MAIL}
+      - PGADMIN_DEFAULT_PASSWORD=${PGADMIN_PW}
+    ports:
+      - "5050:80"
+    networks:
+      - back-net
+    restart: always
+
+  geoserver:
+    image: georchestra/geoserver:latest
+    depends_on:
+      - postgis
+    networks:
+      - back-net
+    # environment:
+    #   - JAVA_OPTIONS=-Dorg.eclipse.jetty.annotations.AnnotationParser.LEVEL=OFF
+    #   - XMS=256M
+    #   - XMX=8G
+    restart: always
+
+#  jupyter:
+
+  filebw:
+    image: filebrowser/filebrowser:s6
+    networks:
+      - back-net
+    ports:
+      - 8081:80
+    restart: always
+
+  portainer:
+    image: portainer/portainer-ce:alpine
+    container_name: portainer
+    command: -H unix:///var/run/docker.sock
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - back-net
+    ports:
+      - 9000:9000
+      - 8082:8000
+    restart: always
+  
+  ngnix:
+    image: nginx
+    volumes:
+      - ./nginx/nginx.conf:/tmp/nginx.conf
+    networks:
+      - back-net
+    ports:
+      - 80:80
+
+networks:
+  back-net:
