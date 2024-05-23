@@ -32,6 +32,8 @@ services:
       - postgis
     networks:
       - back-net
+    ports:
+      - 8083:8080
     # environment:
     #   - JAVA_OPTIONS=-Dorg.eclipse.jetty.annotations.AnnotationParser.LEVEL=OFF
     #   - XMS=256M
