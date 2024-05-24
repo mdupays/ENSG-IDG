@@ -1,4 +1,23 @@
 services:
+
+  nginx-proxy:
+    image: nginxproxy/nginx-proxy:latest
+    container_name: proxy
+    restart: unless-stopped
+    expose:
+      - "80"
+    build:
+      context: ./data/nginx-proxy
+    networks:
+      back-net:
+        ipv4_address: 172.24.0.3
+    environment:
+      - DHPARAM_GENERATION=false
+      - VIRTUAL_PORT=80
+      - VIRTUAL_HOST=hub.ensg-sdi.docker
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+
   postgis:
     container_name: postgres
     image: postgres:latest
@@ -62,15 +81,9 @@ services:
       - 9000:9000
       - 8082:8000
     restart: always
-  
-  ngnix:
-    image: nginx
-    volumes:
-      - ./nginx/nginx.conf:/tmp/nginx.conf
-    networks:
-      - back-net
-    ports:
-      - 80:80
 
 networks:
   back-net:
+    ipam:
+      config:
+        - subnet: "172.24.0.0/16"
