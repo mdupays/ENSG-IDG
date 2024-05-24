@@ -6,8 +6,15 @@ services:
     restart: unless-stopped
     expose:
       - "80"
+    depends_on:
+      - postgis
+      - homepage
+      - pgadmin
+      - geoserver
+      - filebw
+      - portainer
     build:
-      context: ./data/nginx-proxy
+      context: ./config/nginx-proxy
     environment:
       - DHPARAM_GENERATION=false
       - VIRTUAL_PORT=80
@@ -24,9 +31,9 @@ services:
     restart: unless-stopped
     expose:
       - "3000"
-    # volumes:
-    #   - ./config/homepage:/app/config
-    #   - homepage-public:/app/public
+    volumes:
+      - ./config/homepage:/app/config
+     # - homepage-public:/app/public
     networks:
       back-net:
         ipv4_address: 172.24.0.4
@@ -38,8 +45,8 @@ services:
       - POSTGRES_USER=${POSTGRES_USER}
       - POSTGRES_PASSWORD=${POSTGRES_PW}
       - POSTGRES_DB=${POSTGRES_DB} #optional (specify default database instead of $POSTGRES_DB)
-    ports:
-      - "5432:5432"
+    expose:
+      - "5432"
     restart: always
     networks:
       back-net:
@@ -53,8 +60,9 @@ services:
     environment:
       - PGADMIN_DEFAULT_EMAIL=${PGADMIN_MAIL}
       - PGADMIN_DEFAULT_PASSWORD=${PGADMIN_PW}
-    ports:
-      - "5050:80"
+    expose:
+      - "5050"
+      - "80"
     networks:
       back-net:
         ipv4_address: 172.24.0.6
@@ -67,8 +75,8 @@ services:
     networks:
       back-net:
         ipv4_address: 172.24.0.7
-    ports:
-      - 8083:8080
+    expose:
+      - "8080"
     # environment:
     #   - JAVA_OPTIONS=-Dorg.eclipse.jetty.annotations.AnnotationParser.LEVEL=OFF
     #   - XMS=256M
@@ -82,8 +90,8 @@ services:
     networks:
       back-net:
         ipv4_address: 172.24.0.8
-    ports:
-      - 8081:80
+    expose:
+      - "8080"
     restart: always
 
   portainer:
@@ -95,9 +103,10 @@ services:
     networks:
       back-net:
         ipv4_address: 172.24.0.9
-    ports:
-      - 9000:9000
-      - 8082:8000
+    expose:
+      - "9000"
+      - "8082"
+      - "8000"
     restart: always
 
 networks:

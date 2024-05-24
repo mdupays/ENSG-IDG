@@ -1,0 +1,4242 @@
+[2024-05-24T12:12:34.504Z] error: undefined
+[2024-05-24T12:12:34.614Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:12:34.617Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:39.505Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:12:39.506Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:39.617Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:12:39.618Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:44.511Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:12:44.511Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:44.514Z] error: undefined
+[2024-05-24T12:12:44.619Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:12:44.619Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:49.623Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:12:49.623Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:54.519Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:12:54.519Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:54.541Z] error: undefined
+[2024-05-24T12:12:54.627Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:12:54.627Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:59.523Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:12:59.523Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:12:59.635Z] error: undefined
+[2024-05-24T12:13:04.527Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:13:04.527Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:06.325Z] error: undefined
+[2024-05-24T12:13:09.639Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:13:09.640Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:14.534Z] error: undefined
+[2024-05-24T12:13:14.537Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:13:14.537Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:14.643Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:13:14.643Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:19.290Z] error: undefined
+[2024-05-24T12:13:19.539Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:13:19.539Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:24.651Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:13:24.651Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:29.547Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:13:29.547Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:29.619Z] error: undefined
+[2024-05-24T12:13:29.656Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:13:29.656Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:34.551Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:13:34.551Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:34.661Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:13:34.661Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:34.674Z] error: undefined
+[2024-05-24T12:13:44.559Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:13:44.559Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:44.669Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:13:44.669Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:49.631Z] error: undefined
+[2024-05-24T12:13:49.676Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:13:49.677Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:54.635Z] error: undefined
+[2024-05-24T12:13:54.681Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:13:54.681Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:59.639Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:13:59.639Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:13:59.685Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:13:59.685Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:04.643Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:14:04.643Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:04.691Z] error: undefined
+[2024-05-24T12:14:09.647Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:14:09.647Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:09.694Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:14:09.694Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:14.647Z] error: undefined
+[2024-05-24T12:14:14.650Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:14:14.651Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:14.697Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:14:14.697Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:19.701Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:14:19.702Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:24.659Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:14:24.659Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:24.701Z] error: undefined
+[2024-05-24T12:14:29.656Z] error: undefined
+[2024-05-24T12:14:39.646Z] error: undefined
+[2024-05-24T12:14:39.657Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:14:39.657Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:44.665Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:14:44.665Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:49.667Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:14:49.668Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:49.709Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:14:49.709Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:54.671Z] error: undefined
+[2024-05-24T12:14:54.711Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:14:54.711Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:59.674Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:14:59.675Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:14:59.715Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:14:59.715Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:15:04.679Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:15:04.680Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:15:04.718Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:15:04.719Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:15:09.684Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:15:09.685Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:15:09.722Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:15:09.723Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:15:14.689Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:15:14.689Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:05.034Z] error: undefined
+[2024-05-24T12:18:05.201Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:18:05.201Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:10.037Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:18:10.037Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:10.205Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:18:10.205Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:15.039Z] error: undefined
+[2024-05-24T12:18:15.052Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:18:15.052Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:15.209Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:18:15.209Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:20.215Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:18:20.215Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:25.049Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:18:25.049Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:25.063Z] error: undefined
+[2024-05-24T12:18:25.220Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:18:25.220Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:30.055Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:18:30.055Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:35.054Z] error: undefined
+[2024-05-24T12:18:35.057Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:18:35.057Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:40.061Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:18:40.062Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:40.233Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:18:40.233Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:45.065Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:18:45.065Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:45.237Z] error: undefined
+[2024-05-24T12:18:50.071Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:18:50.071Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:50.241Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:18:50.241Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:55.076Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:18:55.076Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:55.241Z] error: undefined
+[2024-05-24T12:18:55.246Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:18:55.246Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:18:56.457Z] error: undefined
+[2024-05-24T12:19:00.079Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:19:00.079Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:00.251Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:19:00.251Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:05.084Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:19:05.084Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:05.255Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:19:05.255Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:15.094Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:19:15.095Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:15.265Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:19:15.265Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:20.097Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:19:20.097Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:20.271Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:19:20.271Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:25.101Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:19:25.101Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:25.276Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:19:25.277Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:30.105Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:19:30.105Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:30.281Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:19:30.281Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:35.109Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:19:35.109Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:35.285Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:19:35.285Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:40.113Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:19:40.113Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:40.287Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:19:40.287Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:45.117Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:19:45.117Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:45.292Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:19:45.292Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:19:50.121Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:19:50.121Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:29:59.294Z] error: undefined
+[2024-05-24T12:29:59.611Z] error: undefined
+[2024-05-24T12:30:04.295Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:30:04.297Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:04.615Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:30:04.615Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:09.299Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:30:09.299Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:09.620Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:30:09.621Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:14.304Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:30:14.305Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:14.625Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:30:14.625Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:19.309Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:30:19.310Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:19.629Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:30:19.630Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:24.314Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:30:24.315Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:30:24.633Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:30:24.633Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:23.486Z] error: undefined
+[2024-05-24T12:57:23.559Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:57:23.560Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:28.488Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:57:28.489Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:28.564Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:57:28.565Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:33.493Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:57:33.494Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:33.497Z] error: undefined
+[2024-05-24T12:57:33.567Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:57:33.567Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:38.571Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:57:38.571Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:43.503Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:57:43.503Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:43.531Z] error: undefined
+[2024-05-24T12:57:43.574Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:57:43.575Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:48.508Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:57:48.509Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:53.510Z] error: undefined
+[2024-05-24T12:57:53.513Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:57:53.513Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:58.518Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:57:58.519Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:57:58.586Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:57:58.587Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:03.521Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:58:03.521Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:03.590Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:58:03.591Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:08.526Z] error: undefined
+[2024-05-24T12:58:08.595Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:58:08.595Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:13.522Z] error: undefined
+[2024-05-24T12:58:13.599Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:58:13.599Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:23.522Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:58:23.522Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:28.529Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:58:28.529Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:28.533Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:58:28.533Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:33.539Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:58:33.539Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:38.727Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:58:38.727Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:43.609Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:58:43.609Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:43.735Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:58:43.735Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:48.613Z] error: undefined
+[2024-05-24T12:58:48.739Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:58:48.739Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:53.617Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:58:53.617Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:58:53.745Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:58:53.745Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:03.547Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:59:03.547Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:08.535Z] error: undefined
+[2024-05-24T12:59:08.554Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:59:08.554Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:13.539Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:59:13.539Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:18.547Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T12:59:18.547Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:18.749Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:59:18.749Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:23.754Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T12:59:23.755Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:28.631Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:59:28.631Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:28.758Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:59:28.759Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:33.637Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:59:33.638Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T12:59:33.765Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T12:59:33.765Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:53.902Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:28:53.904Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:53.931Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:28:53.932Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:53.964Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:28:53.964Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:53.992Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:28:53.993Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:54.030Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:28:54.031Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:54.069Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:28:54.070Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:54.098Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:28:54.099Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:54.126Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:28:54.126Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:54.151Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:28:54.151Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:28:54.182Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:28:54.183Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:01.548Z] error: undefined
+[2024-05-24T13:29:02.855Z] error: undefined
+[2024-05-24T13:29:06.854Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:29:06.855Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:06.905Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:06.906Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:06.908Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:06.908Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:06.941Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:06.941Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:06.943Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:06.943Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:06.985Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:06.985Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:06.986Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:29:06.986Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:07.019Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:07.020Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:07.020Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:07.020Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:07.048Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:07.048Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.020Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:29:13.020Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.036Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:13.036Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.071Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:13.071Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.073Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:13.073Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.108Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:13.108Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.110Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:29:13.110Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.148Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:13.148Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.149Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:13.149Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.187Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:13.187Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:13.192Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:13.192Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:14.940Z] error: undefined
+[2024-05-24T13:29:20.080Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:29:20.080Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.105Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:20.106Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.110Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:20.110Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.138Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:20.139Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.146Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:20.146Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.172Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:20.172Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.173Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:29:20.173Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.221Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:29:20.221Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.221Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:20.222Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:20.263Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:29:20.263Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:29:27.212Z] error: undefined
+[2024-05-24T13:30:42.206Z] error: undefined
+[2024-05-24T13:30:42.206Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:30:42.206Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:30:47.210Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:30:47.211Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:30:47.212Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:30:47.212Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:30:47.938Z] error: undefined
+[2024-05-24T13:30:52.215Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:30:52.215Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:30:52.216Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:30:52.216Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:30:57.218Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:30:57.219Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:02.222Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:31:02.223Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:02.225Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:31:02.225Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:03.210Z] error: undefined
+[2024-05-24T13:31:07.226Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:31:07.227Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:07.229Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:31:07.229Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:12.232Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:31:12.232Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:12.233Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:31:12.233Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:15.487Z] error: undefined
+[2024-05-24T13:31:17.237Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:31:17.237Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:17.238Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:31:17.238Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:22.243Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:31:22.243Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:27.247Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:31:27.248Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:27.248Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:31:27.249Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:31.562Z] error: undefined
+[2024-05-24T13:31:32.252Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:31:32.252Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:37.256Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:31:37.256Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:37.257Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:31:37.257Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:31:46.618Z] error: undefined
+[2024-05-24T13:32:02.306Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:32:02.307Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:02.308Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:32:02.308Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:07.311Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:32:07.311Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:07.313Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:32:07.313Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:12.314Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:32:12.315Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:12.316Z] error: undefined
+[2024-05-24T13:32:17.320Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:32:17.320Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:17.323Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:32:17.323Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:22.321Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:32:22.322Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:22.326Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:32:22.326Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:27.327Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:32:27.327Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:42.590Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:32:42.591Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:47.328Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:32:47.328Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:47.602Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:32:47.603Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:52.332Z] error: undefined
+[2024-05-24T13:32:52.608Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:32:52.608Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:57.336Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:32:57.336Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:32:57.613Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:32:57.613Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:02.340Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:33:02.340Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:02.623Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:33:02.624Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:07.345Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:33:07.346Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:07.623Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:33:07.623Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:22.617Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:33:22.618Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:27.623Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:33:27.623Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:27.624Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:33:27.624Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:32.632Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:33:32.632Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:37.637Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:33:37.637Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:42.360Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:33:42.360Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:42.643Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:33:42.643Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:47.365Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:33:47.366Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:47.647Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:33:47.647Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:33:52.371Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:33:52.371Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:02.680Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:34:02.681Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:07.684Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:34:07.684Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:07.686Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:34:07.687Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:12.692Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:34:12.692Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:22.379Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:34:22.379Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:22.662Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:34:22.662Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:27.384Z] error: undefined
+[2024-05-24T13:34:27.667Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:34:27.667Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:32.387Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:34:32.387Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:32.670Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:34:32.671Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:37.392Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:34:37.392Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:42.700Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:34:42.700Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:47.708Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:34:47.708Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:47.709Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:34:47.709Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:34:52.716Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:34:52.717Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:07.401Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:35:07.402Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:07.685Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:35:07.685Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:12.407Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:35:12.408Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:12.688Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:35:12.688Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:17.412Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:35:17.413Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:17.693Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:35:17.693Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:22.722Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:35:22.723Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:27.731Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:35:27.731Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:27.732Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:35:27.732Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:32.739Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:35:32.740Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:47.700Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:35:47.700Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:52.428Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:35:52.429Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:52.707Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:35:52.708Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:57.433Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:35:57.434Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:35:57.710Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:35:57.711Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:36:02.440Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:36:02.440Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:36:02.746Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:36:02.747Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:36:07.444Z] error: undefined
+[2024-05-24T13:36:07.754Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:36:07.755Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:36:12.448Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:36:12.448Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:36:17.455Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:36:17.456Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:42:41.005Z] error: undefined
+[2024-05-24T13:42:41.052Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:42:41.054Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:42:46.008Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:42:46.008Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:42:46.056Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:42:46.057Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:42:51.012Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:42:51.013Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:42:51.060Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:42:51.061Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:42:53.464Z] error: undefined
+[2024-05-24T13:42:56.016Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:42:56.017Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:01.020Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:01.021Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:01.068Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:01.068Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:06.024Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:43:06.025Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:06.072Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:43:06.072Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:11.028Z] error: undefined
+[2024-05-24T13:43:11.076Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:11.077Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:16.032Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:16.032Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:16.081Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:43:16.081Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:21.037Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:43:21.038Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:21.065Z] error: undefined
+[2024-05-24T13:43:21.087Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:43:21.087Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:26.092Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:26.092Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:31.048Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:31.048Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:31.096Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:43:31.097Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:36.052Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:43:36.052Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:36.100Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:43:36.100Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:36.147Z] error: undefined
+[2024-05-24T13:43:41.105Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:43:41.106Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:46.060Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:46.060Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:46.111Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:46.111Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:51.064Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:43:51.064Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:51.114Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:51.115Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:43:56.068Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:43:56.068Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:06.160Z] error: undefined
+[2024-05-24T13:44:11.067Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:44:11.067Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:11.164Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:44:11.164Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:16.075Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:44:16.075Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:16.171Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:44:16.172Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:26.080Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:44:26.080Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:26.128Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:44:26.129Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:31.087Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:44:31.087Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:31.132Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:44:31.132Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:36.091Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:44:36.091Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:36.139Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:44:36.139Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:46.275Z] error: undefined
+[2024-05-24T13:44:51.090Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:44:51.090Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:51.278Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:44:51.279Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:56.096Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:44:56.096Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:44:56.284Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:44:56.284Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:06.104Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:45:06.104Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:11.107Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:45:11.107Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:11.110Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:45:11.110Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:16.110Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:45:16.111Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:16.114Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:45:16.114Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:21.119Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:45:21.119Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:31.111Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:45:31.111Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:31.296Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:45:31.296Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:36.119Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:45:36.119Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:36.303Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:45:36.303Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:46.124Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:45:46.124Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:51.125Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:45:51.125Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:51.130Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:45:51.130Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:45:56.128Z] error: undefined
+[2024-05-24T13:45:56.134Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:45:56.134Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:01.132Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:46:01.132Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:06.138Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:46:06.139Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:11.132Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:46:11.132Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:11.372Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:46:11.372Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:16.139Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:46:16.139Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:16.378Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:46:16.379Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:26.152Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:46:26.152Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:31.147Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:46:31.147Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:31.156Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:46:31.156Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:36.152Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:46:36.152Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:41.153Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:46:41.154Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:46.163Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:46:46.163Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:51.155Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:46:51.155Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:51.395Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:46:51.395Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:56.162Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:46:56.163Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:46:56.403Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:46:56.403Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:06.171Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:47:06.171Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:08.751Z] error: undefined
+[2024-05-24T13:47:11.172Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:47:11.172Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:13.755Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:47:13.755Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:16.177Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:47:16.177Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:18.759Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:47:18.759Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:21.182Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:47:21.183Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:23.762Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:47:23.763Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:26.186Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:47:26.187Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:28.766Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:47:28.767Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:47:31.192Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:47:31.192Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:03.790Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:51:03.793Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:03.816Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:03.816Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:03.858Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:03.858Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:03.899Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:03.899Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:03.943Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:03.944Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:03.974Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:51:03.975Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.124Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:04.125Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.126Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:04.126Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.127Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:04.127Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.128Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:04.128Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.741Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:04.741Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.772Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:51:04.773Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.796Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:04.796Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.826Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:04.826Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.861Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:04.861Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.892Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:04.892Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.918Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:51:04.918Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:04.978Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:04.978Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:05.009Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:05.010Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:05.039Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:05.039Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:12.768Z] error: undefined
+[2024-05-24T13:51:13.223Z] error: undefined
+[2024-05-24T13:51:21.810Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:51:21.811Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:21.845Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:21.845Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:21.858Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:21.859Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:21.880Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:21.881Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:21.892Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:21.892Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:21.930Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:21.930Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:21.931Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:51:21.931Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:21.970Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:21.970Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:21.971Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:51:21.971Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:22.006Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:51:22.006Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:51:29.903Z] error: undefined
+[2024-05-24T13:54:03.327Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:54:03.327Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.364Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:54:03.364Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.366Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:54:03.366Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.399Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:54:03.399Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.401Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:54:03.401Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.425Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:54:03.426Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.426Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:54:03.426Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.466Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:54:03.466Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.468Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:54:03.468Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:03.503Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:54:03.503Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.610Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:54:04.610Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.642Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:54:04.642Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.647Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:54:04.647Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.678Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:54:04.678Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.679Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/portainer/...
+[2024-05-24T13:54:04.679Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.734Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:54:04.734Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.734Z] error: <httpProxy> Error calling http://hub.ensg-sdi.docker/...
+[2024-05-24T13:54:04.735Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND hub.ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'hub.ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.762Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:54:04.762Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.764Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:54:04.764Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:04.807Z] error: <httpProxy> Error calling http://ensg-sdi.docker/...
+[2024-05-24T13:54:04.807Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo ENOTFOUND ensg-sdi.docker
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ensg-sdi.docker'
+  }
+]
+[2024-05-24T13:54:11.454Z] error: undefined
+[2024-05-24T13:54:12.633Z] error: undefined

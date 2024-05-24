@@ -1,0 +1,26 @@
+
+#
+# Here come the bookmarks section
+#
+# >> Complete doc at : https://gethomepage.dev/en/configs/bookmarks/
+# >> To check icons filenames, please visit: https://github.com/walkxcode/dashboard-icons
+- Developer:
+    - Github:
+        - icon: github.png
+          href: https://github.com/elasticlabs
+    - MSTeams: 
+        - abbr: TS
+          href: https://teams.microsoft.com/
+    - Labs ENSG:
+        - icon: netlify.png
+          href: https://ensg-dockerized-sdi-2024-tvno.vercel.app
+
+- Social:
+    - Tweetdeck:
+        - icon: twitter.png
+          href: https://tweetdeck.twitter.com/
+
+- Entertainment:
+    - JetPunk: 
+        - abbr: JP
+          href: https://www.jetpunk.com/

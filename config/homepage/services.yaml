@@ -1,0 +1,61 @@
+#
+# Homepage configuration (https://gethomepage.dev/en/configs/services/)
+# For icons, just specify the service name from https://github.com/walkxcode/dashboard-icons/tree/main/
+
+#
+# Then the services section
+- SDI Administration:
+    - Portainer:
+        icon: portainer-alt.png
+        href: http://hub.ensg-sdi.docker/portainer/
+        description: Portainer docker stack management interface
+        # (Optional) ping : works by sending a HTTP HEAD request to the server
+        ping: http://hub.ensg-sdi.docker/portainer/
+        # (Optional) Docker server and container
+        # Please note that the docker.yaml file must be present in the same folder as the settings.yaml file
+        # and contain the docker server name definition
+        #server: my-local-instance
+        #container: portainer
+        # (Optional) Widget (see below)
+        #  In order to generate an API key, please follow the steps outlined here https://docs.portainer.io/api/access.html
+        #widget:
+        #    type: portainer
+        #    url: https://ensg-sdi.docker/portainer/
+        #    env: 1
+        #    key: <paste_key_here>
+
+    - File browser:
+        icon: filebrowser.png
+        href: http://hub.ensg-sdi.docker/data
+        description: Manage SDI config and Geo asstes with ease!
+        # (Optional) ping : works by sending a HTTP HEAD request to the server
+        ping: http://hub.ensg-sdi.docker
+
+    - PGAdmin: 
+        icon: pgadmin.png
+        href: http://hub.ensg-sdi.docker/pgadmin
+        description: PostGIS ADministration Web GUI.
+        # (Optional) ping : works by sending a HTTP HEAD request to the server
+        ping: http://hub.ensg-sdi.docker
+
+    - Geoserver: 
+        icon: maptiler.png
+        href: http://ensg-sdi.docker/geoserver
+        description: Geoserver is a versatile FOSS OGW Web services implementation and map server.
+        # (Optional) ping : works by sending an HTTP HEAD request to the server
+        ping: http://ensg-sdi.docker
+
+    - GeoWebCache: 
+        icon: maptiler.png
+        href: http://ensg-sdi.docker/geoserver/gwc
+        description: Geo web cache is Geoserver tiles server.
+        # (Optional) ping : works by sending a HTTP HEAD request to the server
+        ping: http://ensg-sdi.docker
+
+#    - pyGeoAPI: 
+#        icon: python.png
+#        href: http://ensg-sdi.docker/api
+#        description: pyGeoAPI implements OGC API services.
+#        # (Optional) ping : works by sending a HTTP HEAD request to the server
+#        ping: http://ensg-sdi.docker
+
