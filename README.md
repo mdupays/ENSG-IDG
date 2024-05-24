@@ -8,4 +8,4 @@ Cours Introduction infrastructures de données géospatiales
 
 ## Mise en place
 
-- installer "precommithook"
+- installer precommithook
